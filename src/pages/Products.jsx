@@ -1,4 +1,4 @@
-import { Box, SimpleGrid, Image, Text, Button, VStack } from "@chakra-ui/react";
+import { Box, SimpleGrid, Image, Text, Button, VStack, Heading } from "@chakra-ui/react";
 import { Link } from "react-router-dom";
 
 const sampleProducts = [
